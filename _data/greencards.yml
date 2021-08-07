@@ -1,0 +1,53 @@
+- name: EB1
+  link: /EB1.html
+  type: employment
+  # timeline:[
+  #   {
+  #     name: "Build and gather evidence",
+  #     minTime: 1,
+  #     maxTime: 24,
+  #     formName: null
+  #   },
+  #   {
+  #     name: "Get supporting letters",
+  #     minTime: 2,
+  #     maxTime: 4,
+  #     formName: null
+  #   },
+  #   {
+  #     name: "Prepare and submit applicaton",
+  #     minTime: 0,
+  #     maxTime: 1,
+  #     formName: "I-140"
+  #   },
+  #   {
+  #     name: "Prepare and submit applicaton",
+  #     minTime: 0,
+  #     maxTime: 1,
+  #     formName: "I-140"
+  #   },
+  # ]
+- name: EB2
+  link: /EB2.html
+  type: employment
+- name: EB3
+  link: /EB3.html
+  type: employment
+- name: NIW
+  link: /EB3.html
+  type: employment
+- name: F1
+  link: /F1.html
+  type: family
+- name: F2A
+  link: /F2A.html
+  type: family
+- name: F2B
+  link: /F2B.html
+  type: family
+- name: F3
+  link: /F3.html
+  type: family
+- name: F4
+  link: /F4.html
+  type: family
